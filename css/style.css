@@ -39,11 +39,18 @@ p {
   }
 }
 
-
 .icon-block {
   padding: 0 15px;
 }
 
 footer.page-footer {
   margin: 0;
+}
+
+.big-padding {
+    padding:2rem !important;
+}
+
+.brand-logo {
+    margin-left: 1em;
 }
